@@ -1,2 +1,2 @@
 # DSA-DB
-Welcome to my LeetCode practice repository! Maintained by Aman Joshi, this space highlights my solutions to Database and Data Structures &amp; Algorithms problems, focusing on clean code, optimized logic, and continuous learning.
+This repository contains my solutions to LeetCode Database and DSA problems, reflecting my journey in strengthening problem-solving skills, mastering SQL, and building a solid technical foundation. It highlights my commitment to continuous learning, writing optimized solutions, and improving coding efficiency. This space also tracks my progress as I work toward becoming a skilled software and database professional.
